@@ -1,0 +1,65 @@
+p{
+    color: aqua;
+}
+h1{
+    background-color: blueviolet;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.text{
+    color: red;
+    font-family: serif;
+}
+p {
+    font-size: 16px;
+     line-height: 26px;
+     color: #1F3F68;
+}
+h1{
+      font-size: 64px;
+ color: #1F3F68;
+}
+h3{
+     font-size: 36px;
+     text-align: center;
+}
+h4{
+font-size: 20px;
+line-height: 30px;
+ color: #1F3F68;
+}
+input,textarea{
+     border: 1px solid #356EAD;
+     box-sizing: border-box;
+     border-radius: 10px;
+     opacity: 0.4;
+}
+button{
+ border-radius: 10px;
+ font-weight: 500;
+font-size: 16px;
+ line-height: 26px;
+ text-align: center;
+ color: #FFFFFF;
+ text-transform: uppercase;
+}
+
+.heading{
+    color: crimson;
+}
+.back-gray{
+    background-color: gray;
+}
+
+.block{
+    width: 90%;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: #ccc;
+    background-image: url(https://img-fotki.yandex.ru/get/197756/437879727.10/0_181dd1_6dfa75de_XL.jpg);
+    background-size: cover;
+    background-position: center;
+}
